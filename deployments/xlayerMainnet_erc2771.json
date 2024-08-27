@@ -1,0 +1,15 @@
+{
+  "forwarder": "0xc6abD1224B9b96eFA907FE3f87Ad91C8eFef8e8f",
+  "panic": {
+    "proxy": "0x5C3eD189f9CA093A90E9DAd9058849471f0DA8dB",
+    "impl": "0x71C3F148FB5F59741344f0615EF641ccc13eDb5F"
+  },
+  "copycat": {
+    "proxy": "0xD19C50aBbAbE98C76b6Cf2deeB9B53d3F1eEd4Bb",
+    "impl": "0x71C3F148FB5F59741344f0615EF641ccc13eDb5F"
+  },
+  "parkour": {
+    "proxy": "0xAD0DB37F1882Ab13A54410971F3a9Ec649Bb6153",
+    "impl": "0x71C3F148FB5F59741344f0615EF641ccc13eDb5F"
+  }
+}
